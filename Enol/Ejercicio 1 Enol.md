@@ -49,6 +49,7 @@ y que se ha creado la base de datos prueba ( show databases ). El acceso se debe
 desde el ordenador que tenéis instalado docker, no hay que acceder desde dentro del
 contenedor, es decir, no usar docker exec . <br> 
 > ![1](Caps/Ejercicio%201/3.2.PNG)
+> ![1](Caps/Ejercicio%201/3.5.PNG)
 
 * Pantallazo donde se comprueba que no se puede borrar la imagen mariadb mientras el contenedor bbdd está creado.
 > ![1](Caps/Ejercicio%201/3.3.PNG)
